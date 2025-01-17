@@ -1,73 +1,21 @@
-<div id="" align="center">
-  <!-- <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
-   -->
-<h1 align="center">Hi 👋, I'm Mirza Zia Ul Qamar</h1>
-<h4>- 👋 This is my GitHub Tech Notes Profile <b><i>@Zia-Ul-Qamar-Tech-Notes</i></b> to store my Data Notes.</h4>
-<h4>>- 👀 I’m interested in *Software and Web Development.*</h4>
-<h4>- 🌱 I’m currently excited and thrilled to solve different Problems.</h4>
-<h4>- 💞️ I’m looking to collaborate on ...</h4>
-<h4>- 📫 How to reach me:</h4>
-<h4>- :: *Email: zia.softwareprogrammer@gmail.com*</h4>
+# 💫 About Me:
+🔭 I’m currently working on Safety Tool<br>🌱 I’m currently learning Next.js & T3 Stack<br>💬 Ask me about React.js, Next.js, auth, database<br>📫 How to reach me: mirzaziaofficial@gmail.com<br>⚡ Common fact: I love exploring new web technologies and frameworks!
 
 
-</div>
-<h1><b><i>About Me:</b></i></h1>
-<h3 align="center">A Full Stack Developer</h3>
-<h4 align="center">Hi my name is Mirza Zia Ul Qamar, a web developer waliking towards the Journey of Progamming & Development which has no end. I've worked on web development for more than A year now. My goal is to land at a place where Coding is Fun & Passion for everyone. & I want to get hired as a developer as soon as possible💞️ to get much Experience and to Sharpen my Skills of handling the Client even better. </h4>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zia-mern-developer) 
 
-<hr>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zia-Ul-Qamar-Tech-Notes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zia-Ul-Qamar-Tech-Notes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zia-Ul-Qamar-Tech-Notes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Zia-Ul-Qamar-Tech-Notes&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<!-- TECHS -->
+---
+[![](https://visitcount.itsvg.in/api?id=Zia-Ul-Qamar-Tech-Notes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">Skills</h2>
-
-<div align="center">
-                <br>
-                    <div align="center" >  
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="75" height="75"/>
-                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="75" height="75"/> 
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="75" height="75"/>
-					  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-                    </div>
-</div>
-
-<br>
-<hr>
-
-<!-- PROJECTS -->
-<!-- Under Construction -->
-<!-- SOCIALS -->
-
-<h2 align="center">Contact Me</h2>
-<p align="center">
-	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/mirzaziaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>
-	&nbsp&nbsp&nbsp
-	<a href="https://linkedin.com/in/mirzaziaulqamar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>
-	&nbsp&nbsp&nbsp
-	<a href="https://instagram.com/mirzaziaulqamar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a>
-	</p>
-
-<hr>
-
-
-<!-- STATS -->
-<div align="center" margin="100px 0 0 0">
-
-<h2 align="center">Stats</h2>
-<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
-
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingphasedotcom&" alt="codingphasedotcom" /></p>
-</div>
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
